@@ -1,2 +1,2 @@
-# hyd
+# hȳd
 Keep your secrets hidden
