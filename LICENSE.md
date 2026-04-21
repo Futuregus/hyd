@@ -1,7 +1,7 @@
 # hȳd License Overview
 Most of hȳd is licensed under the GNU General Public License v3.0
 
-See `COPYING.md` for the full license text, or visit https://www.gnu.org/licenses/
+See `COPYING` for the full license text, or visit https://www.gnu.org/licenses/
 
  The files that are not under the GPL v3.0 are clearly marked "Licensed under the MIT License" in their headers
 
