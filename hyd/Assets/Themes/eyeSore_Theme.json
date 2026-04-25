@@ -1,0 +1,12 @@
+{
+    "Colors": {
+        "BackgroundColor": "#EA00FF",
+        "TextColor": "#00FFEE",
+        "AccentColor": "#A6FF00",
+        "ButtonColor": "#FF0000"
+    },
+    "Fonts": {
+        "Family": "Courier New",
+        "Size": 16
+    }
+}

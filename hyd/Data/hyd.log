@@ -1,0 +1,320 @@
+~~~~~~~~~~~~~~~~~~~~~~~~~
+[04-22-2026 23:33:09] [STARTUP] Starting hȳd, V-0.0.1
+[04-22-2026 23:33:11] [STARTUP] Running Task:0
+[04-22-2026 23:33:11] [TEST] Loading settings...
+[04-22-2026 23:33:13] [STARTUP] Running Task:1
+[04-22-2026 23:33:13] [TEST] Loading themes...
+[04-22-2026 23:33:15] [STARTUP] Running Task:2
+[04-22-2026 23:33:15] [STARTUP] Loading UI...
+[04-22-2026 23:33:17] [STARTUP] Everything seems to have loaded :D
+*************************
+~~~~~~~~~~~~~~~~~~~~~~~~~
+[04-23-2026 17:23:02] [STARTUP] Starting hȳd, V-0.0.1
+~~~~~~~~~~~~~~~~~~~~~~~~~
+[04-23-2026 17:24:11] [STARTUP] Starting hȳd, V-0.0.1
+~~~~~~~~~~~~~~~~~~~~~~~~~
+[04-23-2026 17:25:11] [STARTUP] Starting hȳd, V-0.0.1
+~~~~~~~~~~~~~~~~~~~~~~~~~
+[04-23-2026 17:25:55] [STARTUP] Starting hȳd, V-0.0.1
+[04-23-2026 17:25:55] [STARTUP] Running Task:0
+[04-23-2026 17:25:55] [TEST] Loading settings...
+[04-23-2026 17:25:57] [STARTUP] Running Task:1
+[04-23-2026 17:25:57] [TEST] Loading themes...
+[04-23-2026 17:25:59] [STARTUP] Running Task:2
+[04-23-2026 17:25:59] [STARTUP] Loading UI...
+[04-23-2026 17:26:01] [STARTUP] Everything seems to have loaded :D
+*************************
+~~~~~~~~~~~~~~~~~~~~~~~~~
+[04-23-2026 17:36:30] [STARTUP] Starting hȳd, V-0.0.1
+~~~~~~~~~~~~~~~~~~~~~~~~~
+[04-23-2026 17:36:51] [STARTUP] Starting hȳd, V-0.0.1
+[04-23-2026 17:36:51] [STARTUP] Running Task:0
+[04-23-2026 17:36:51] [TEST] Loading settings...
+[04-23-2026 17:36:53] [STARTUP] Running Task:1
+[04-23-2026 17:36:53] [TEST] Loading themes...
+[04-23-2026 17:36:55] [STARTUP] Running Task:2
+[04-23-2026 17:36:55] [STARTUP] Loading UI...
+[04-23-2026 17:36:57] [STARTUP] Everything seems to have loaded :D
+*************************
+~~~~~~~~~~~~~~~~~~~~~~~~~
+[04-23-2026 22:39:03] [STARTUP] Starting hȳd, V-0.0.1
+[04-23-2026 22:39:03] [STARTUP] Running Task:0
+[04-23-2026 22:39:03] [TEST] Loading settings...
+[04-23-2026 22:39:05] [STARTUP] Running Task:1
+[04-23-2026 22:39:05] [TEST] Loading themes...
+[04-23-2026 22:39:07] [STARTUP] Running Task:2
+[04-23-2026 22:39:07] [STARTUP] Loading UI...
+[04-23-2026 22:39:09] [STARTUP] Everything seems to have loaded :D
+*************************
+~~~~~~~~~~~~~~~~~~~~~~~~~
+[04-24-2026 14:40:04] [STARTUP] Starting hȳd, V-0.0.1
+[04-24-2026 14:40:06] [STARTUP] Running Task:0
+[04-24-2026 14:40:06] [TEST] Loading settings...
+[04-24-2026 14:40:08] [STARTUP] Running Task:1
+[04-24-2026 14:40:08] [TEST] Loading themes...
+[04-24-2026 14:40:10] [STARTUP] Running Task:2
+[04-24-2026 14:40:10] [STARTUP] Loading UI...
+[04-24-2026 14:40:12] [STARTUP] Everything seems to have loaded :D
+*************************
+~~~~~~~~~~~~~~~~~~~~~~~~~
+[04-24-2026 14:42:49] [STARTUP] Starting hȳd, V-0.0.1
+[04-24-2026 14:42:50] [STARTUP] Running Task:0
+[04-24-2026 14:42:50] [TEST] Loading settings...
+[04-24-2026 14:42:52] [STARTUP] Running Task:1
+[04-24-2026 14:42:52] [TEST] Loading themes...
+[04-24-2026 14:42:54] [STARTUP] Running Task:2
+[04-24-2026 14:42:54] [STARTUP] Loading UI...
+[04-24-2026 14:42:56] [STARTUP] Everything seems to have loaded :D
+*************************
+~~~~~~~~~~~~~~~~~~~~~~~~~
+[04-24-2026 15:06:08] [STARTUP] Starting hȳd, V-0.0.1
+[04-24-2026 15:06:08] [STARTUP] Running Task:0
+[04-24-2026 15:06:08] [TEST] Loading settings...
+[04-24-2026 15:06:10] [STARTUP] Running Task:1
+[04-24-2026 15:06:10] [TEST] Loading themes...
+[04-24-2026 15:06:12] [STARTUP] Running Task:2
+[04-24-2026 15:06:12] [STARTUP] Loading UI...
+[04-24-2026 15:06:14] [STARTUP] Everything seems to have loaded :D
+*************************
+~~~~~~~~~~~~~~~~~~~~~~~~~
+[04-24-2026 15:15:31] [STARTUP] Starting hȳd, V-0.0.1
+[04-24-2026 15:15:32] [STARTUP] Running Task:0
+[04-24-2026 15:15:32] [TEST] Loading settings...
+[04-24-2026 15:15:34] [STARTUP] Running Task:1
+[04-24-2026 15:15:34] [TEST] Loading themes...
+[04-24-2026 15:15:36] [STARTUP] Running Task:2
+[04-24-2026 15:15:36] [STARTUP] Loading UI...
+[04-24-2026 15:15:38] [STARTUP] Everything seems to have loaded :D
+*************************
+~~~~~~~~~~~~~~~~~~~~~~~~~
+[04-24-2026 16:26:31] [STARTUP] Starting hȳd, V-0.0.1
+~~~~~~~~~~~~~~~~~~~~~~~~~
+[04-24-2026 16:27:34] [STARTUP] Starting hȳd, V-0.0.1
+[04-24-2026 16:27:34] [STARTUP] Running Task:0
+[04-24-2026 16:27:35] [Loading Settings] Loading settings...
+[04-24-2026 16:27:37] [STARTUP] Running Task:1
+[04-24-2026 16:27:37] [STARTUP] Applying Theme...
+[04-24-2026 16:27:37] [ERROR] Task: 1 has failed with an error of: ThemeManager.Get_active() takes 1 positional argument but 2 were given
+[04-24-2026 16:27:39] [STARTUP] Running Task:2
+[04-24-2026 16:27:39] [STARTUP] Loading UI...
+[04-24-2026 16:27:41] [STARTUP] Everything seems to have loaded :D
+*************************
+~~~~~~~~~~~~~~~~~~~~~~~~~
+[04-24-2026 16:29:34] [STARTUP] Starting hȳd, V-0.0.1
+[04-24-2026 16:29:35] [STARTUP] Running Task:0
+[04-24-2026 16:29:35] [Loading Settings] Loading settings...
+[04-24-2026 16:29:37] [STARTUP] Running Task:1
+[04-24-2026 16:29:37] [STARTUP] Applying Theme...
+[04-24-2026 16:29:39] [STARTUP] Running Task:2
+[04-24-2026 16:29:39] [STARTUP] Loading UI...
+[04-24-2026 16:29:41] [STARTUP] Everything seems to have loaded :D
+*************************
+~~~~~~~~~~~~~~~~~~~~~~~~~
+[04-24-2026 16:31:12] [STARTUP] Starting hȳd, V-0.0.1
+[04-24-2026 16:31:12] [STARTUP] Running Task:0
+[04-24-2026 16:31:13] [Loading Settings] Loading settings...
+[04-24-2026 16:31:15] [STARTUP] Running Task:1
+[04-24-2026 16:31:15] [STARTUP] Applying Theme...
+[04-24-2026 16:31:17] [STARTUP] Running Task:2
+[04-24-2026 16:31:17] [STARTUP] Loading UI...
+[04-24-2026 16:31:19] [STARTUP] Everything seems to have loaded :D
+*************************
+~~~~~~~~~~~~~~~~~~~~~~~~~
+[04-24-2026 16:32:18] [STARTUP] Starting hȳd, V-0.0.1
+[04-24-2026 16:32:19] [STARTUP] Running Task:0
+[04-24-2026 16:32:19] [Loading Settings] Loading settings...
+[04-24-2026 16:32:21] [STARTUP] Running Task:1
+[04-24-2026 16:32:21] [STARTUP] Applying Theme...
+[04-24-2026 16:32:23] [STARTUP] Running Task:2
+[04-24-2026 16:32:23] [STARTUP] Loading UI...
+[04-24-2026 16:32:25] [STARTUP] Everything seems to have loaded :D
+*************************
+~~~~~~~~~~~~~~~~~~~~~~~~~
+[04-24-2026 16:33:23] [STARTUP] Starting hȳd, V-0.0.1
+[04-24-2026 16:33:24] [STARTUP] Running Task:0
+[04-24-2026 16:33:24] [Loading Settings] Loading settings...
+[04-24-2026 16:33:26] [STARTUP] Running Task:1
+[04-24-2026 16:33:26] [STARTUP] Applying Theme...
+[04-24-2026 16:33:28] [STARTUP] Running Task:2
+[04-24-2026 16:33:28] [STARTUP] Loading UI...
+[04-24-2026 16:33:30] [STARTUP] Everything seems to have loaded :D
+*************************
+~~~~~~~~~~~~~~~~~~~~~~~~~
+[04-24-2026 16:36:10] [STARTUP] Starting hȳd, V-0.0.1
+[04-24-2026 16:36:10] [STARTUP] Running Task:0
+[04-24-2026 16:36:10] [Loading Settings] Loading settings...
+[04-24-2026 16:36:12] [STARTUP] Running Task:1
+[04-24-2026 16:36:12] [STARTUP] Applying Theme...
+[04-24-2026 16:36:14] [STARTUP] Running Task:2
+[04-24-2026 16:36:14] [STARTUP] Loading UI...
+[04-24-2026 16:36:16] [STARTUP] Everything seems to have loaded :D
+*************************
+~~~~~~~~~~~~~~~~~~~~~~~~~
+[04-24-2026 16:36:29] [STARTUP] Starting hȳd, V-0.0.1
+[04-24-2026 16:36:30] [STARTUP] Running Task:0
+[04-24-2026 16:36:31] [Loading Settings] Loading settings...
+[04-24-2026 16:36:33] [STARTUP] Running Task:1
+[04-24-2026 16:36:33] [STARTUP] Applying Theme...
+[04-24-2026 16:36:35] [STARTUP] Running Task:2
+[04-24-2026 16:36:35] [STARTUP] Loading UI...
+[04-24-2026 16:36:37] [STARTUP] Everything seems to have loaded :D
+*************************
+~~~~~~~~~~~~~~~~~~~~~~~~~
+[04-24-2026 17:15:48] [STARTUP] Starting hȳd, V-0.0.1
+[04-24-2026 17:15:49] [STARTUP] Running Task:0
+[04-24-2026 17:15:49] [Loading Settings] Loading settings...
+[04-24-2026 17:15:51] [STARTUP] Running Task:1
+[04-24-2026 17:15:51] [STARTUP] Applying Theme...
+[04-24-2026 17:15:51] [ERROR] Task: 1 has failed with an error of: 'Theme not found: hyd Dark'
+[04-24-2026 17:15:53] [STARTUP] Running Task:2
+[04-24-2026 17:15:53] [STARTUP] Loading UI...
+[04-24-2026 17:15:55] [STARTUP] Everything seems to have loaded :D
+*************************
+~~~~~~~~~~~~~~~~~~~~~~~~~
+[04-24-2026 17:22:56] [STARTUP] Starting hȳd, V-0.0.1
+[04-24-2026 17:22:57] [STARTUP] Running Task:0
+[04-24-2026 17:22:57] [Loading Settings] Loading settings...
+[04-24-2026 17:22:59] [STARTUP] Running Task:1
+[04-24-2026 17:22:59] [STARTUP] Applying Theme...
+[04-24-2026 17:23:01] [STARTUP] Running Task:2
+[04-24-2026 17:23:01] [STARTUP] Loading UI...
+[04-24-2026 17:23:03] [STARTUP] Everything seems to have loaded :D
+*************************
+~~~~~~~~~~~~~~~~~~~~~~~~~
+[04-24-2026 17:36:05] [STARTUP] Starting hȳd, V-0.0.1
+[04-24-2026 17:36:06] [STARTUP] Running Task:0
+[04-24-2026 17:36:06] [Loading Settings] Loading settings...
+[04-24-2026 17:36:08] [STARTUP] Running Task:1
+[04-24-2026 17:36:08] [STARTUP] Applying Theme...
+[04-24-2026 17:36:10] [STARTUP] Running Task:2
+[04-24-2026 17:36:10] [STARTUP] Loading UI...
+[04-24-2026 17:36:10] [ERROR] Task: 2 has failed with an error of: Utilities.Check_for_updates() got multiple values for argument 'enabled'
+[04-24-2026 17:36:12] [STARTUP] Everything seems to have loaded :D
+*************************
+~~~~~~~~~~~~~~~~~~~~~~~~~
+[04-24-2026 17:36:49] [STARTUP] Starting hȳd, V-0.0.1
+[04-24-2026 17:36:49] [STARTUP] Running Task:0
+[04-24-2026 17:36:49] [Loading Settings] Loading settings...
+[04-24-2026 17:36:51] [STARTUP] Running Task:1
+[04-24-2026 17:36:51] [STARTUP] Applying Theme...
+[04-24-2026 17:36:53] [STARTUP] Running Task:2
+[04-24-2026 17:36:53] [STARTUP] Loading UI...
+[04-24-2026 17:36:53] [ERROR] Task: 2 has failed with an error of: Utilities.Check_for_updates() got multiple values for argument 'enabled'
+[04-24-2026 17:36:55] [STARTUP] Everything seems to have loaded :D
+*************************
+~~~~~~~~~~~~~~~~~~~~~~~~~
+[04-24-2026 17:37:16] [STARTUP] Starting hȳd, V-0.0.1
+[04-24-2026 17:37:17] [STARTUP] Running Task:0
+[04-24-2026 17:37:17] [Loading Settings] Loading settings...
+[04-24-2026 17:37:19] [STARTUP] Running Task:1
+[04-24-2026 17:37:19] [STARTUP] Applying Theme...
+[04-24-2026 17:37:21] [STARTUP] Running Task:2
+[04-24-2026 17:37:21] [STARTUP] Loading UI...
+[04-24-2026 17:37:21] [ERROR] Task: 2 has failed with an error of: Utilities.Check_for_updates() got multiple values for argument 'enabled'
+[04-24-2026 17:37:23] [STARTUP] Everything seems to have loaded :D
+*************************
+~~~~~~~~~~~~~~~~~~~~~~~~~
+[04-24-2026 17:38:37] [STARTUP] Starting hȳd, V-0.0.1
+[04-24-2026 17:38:38] [STARTUP] Running Task:0
+[04-24-2026 17:38:38] [Loading Settings] Loading settings...
+[04-24-2026 17:38:40] [STARTUP] Running Task:1
+[04-24-2026 17:38:40] [STARTUP] Applying Theme...
+[04-24-2026 17:38:42] [STARTUP] Running Task:2
+[04-24-2026 17:38:42] [STARTUP] Loading UI...
+[04-24-2026 17:38:42] [ERROR] Task: 2 has failed with an error of: Utilities.Check_for_updates() takes 1 positional argument but 2 were given
+[04-24-2026 17:38:44] [STARTUP] Everything seems to have loaded :D
+*************************
+~~~~~~~~~~~~~~~~~~~~~~~~~
+[04-24-2026 17:40:12] [STARTUP] Starting hȳd, V-0.0.1
+[04-24-2026 17:40:12] [STARTUP] Running Task:0
+[04-24-2026 17:40:12] [Loading Settings] Loading settings...
+[04-24-2026 17:40:14] [STARTUP] Running Task:1
+[04-24-2026 17:40:14] [STARTUP] Applying Theme...
+[04-24-2026 17:40:16] [STARTUP] Running Task:2
+[04-24-2026 17:40:16] [STARTUP] Loading UI...
+[04-24-2026 17:40:18] [STARTUP] Everything seems to have loaded :D
+*************************
+~~~~~~~~~~~~~~~~~~~~~~~~~
+[04-24-2026 18:03:49] [STARTUP] Starting hȳd, V-0.0.01
+[04-24-2026 18:03:50] [STARTUP] Running Task:0
+[04-24-2026 18:03:50] [Loading Settings] Loading settings...
+[04-24-2026 18:03:52] [STARTUP] Running Task:1
+[04-24-2026 18:03:52] [STARTUP] Applying Theme...
+[04-24-2026 18:03:54] [STARTUP] Running Task:2
+[04-24-2026 18:03:54] [STARTUP] Loading UI...
+[04-24-2026 18:03:56] [STARTUP] Everything seems to have loaded :D
+*************************
+~~~~~~~~~~~~~~~~~~~~~~~~~
+[04-24-2026 18:06:51] [STARTUP] Starting hȳd, V-0.0.01
+[04-24-2026 18:06:51] [STARTUP] Running Task:0
+[04-24-2026 18:06:52] [Loading Settings] Loading settings...
+[04-24-2026 18:06:54] [STARTUP] Running Task:1
+[04-24-2026 18:06:54] [STARTUP] Applying Theme...
+[04-24-2026 18:06:56] [STARTUP] Running Task:2
+[04-24-2026 18:06:56] [STARTUP] Loading UI...
+[04-24-2026 18:06:56] [UPDATE CHECK] (True, '0.0.1', 'https://github.com/Futuregus/hyd/releases/tag/V-0.0.1')
+[04-24-2026 18:06:58] [STARTUP] Everything seems to have loaded :D
+*************************
+~~~~~~~~~~~~~~~~~~~~~~~~~
+[04-24-2026 18:16:21] [STARTUP] Starting hȳd, V-0.0.01
+~~~~~~~~~~~~~~~~~~~~~~~~~
+[04-24-2026 18:17:02] [STARTUP] Starting hȳd, V-0.0.01
+[04-24-2026 18:17:03] [STARTUP] Running Task:0
+[04-24-2026 18:17:03] [Loading Settings] Loading settings...
+[04-24-2026 18:17:05] [STARTUP] Running Task:1
+[04-24-2026 18:17:05] [STARTUP] Applying Theme...
+[04-24-2026 18:17:07] [STARTUP] Running Task:2
+[04-24-2026 18:17:09] [STARTUP] Everything seems to have loaded :D
+*************************
+~~~~~~~~~~~~~~~~~~~~~~~~~
+[04-24-2026 18:39:43] [STARTUP] Starting hȳd, V-0.0.01
+~~~~~~~~~~~~~~~~~~~~~~~~~
+[04-24-2026 19:06:48] [STARTUP] Starting hȳd, V-0.0.01
+[04-24-2026 19:06:49] [STARTUP] Running Task:0
+[04-24-2026 19:06:49] [Loading Settings] Loading settings...
+[04-24-2026 19:06:51] [STARTUP] Running Task:1
+[04-24-2026 19:06:51] [STARTUP] Applying Theme...
+[04-24-2026 19:06:53] [STARTUP] Running Task:2
+[04-24-2026 19:06:53] [STARTUP] Checking for updates...
+[04-24-2026 19:06:55] [STARTUP] Everything seems to have loaded :D
+*************************
+~~~~~~~~~~~~~~~~~~~~~~~~~
+[04-24-2026 19:13:33] [STARTUP] Starting hȳd, V-0.0.1
+[04-24-2026 19:13:34] [STARTUP] Running Task:0
+[04-24-2026 19:13:34] [Loading Settings] Loading settings...
+[04-24-2026 19:13:36] [STARTUP] Running Task:1
+[04-24-2026 19:13:36] [STARTUP] Applying Theme...
+[04-24-2026 19:13:38] [STARTUP] Running Task:2
+[04-24-2026 19:13:38] [STARTUP] Checking for updates...
+[04-24-2026 19:13:40] [STARTUP] Everything seems to have loaded :D
+*************************
+~~~~~~~~~~~~~~~~~~~~~~~~~
+[04-24-2026 19:16:43] [STARTUP] Starting hȳd, V-0.0.1
+[04-24-2026 19:16:44] [STARTUP] Running Task:0
+[04-24-2026 19:16:44] [Loading Settings] Loading settings...
+[04-24-2026 19:16:46] [STARTUP] Running Task:1
+[04-24-2026 19:16:46] [STARTUP] Applying Theme...
+[04-24-2026 19:16:48] [STARTUP] Running Task:2
+[04-24-2026 19:16:48] [STARTUP] Checking for updates...
+[04-24-2026 19:16:50] [STARTUP] Everything seems to have loaded :D
+*************************
+~~~~~~~~~~~~~~~~~~~~~~~~~
+[04-24-2026 19:18:16] [STARTUP] Starting hȳd, V-0.0.1
+[04-24-2026 19:18:17] [STARTUP] Running Task:0
+[04-24-2026 19:18:17] [Loading Settings] Loading settings...
+[04-24-2026 19:18:19] [STARTUP] Running Task:1
+[04-24-2026 19:18:19] [STARTUP] Applying Theme...
+[04-24-2026 19:18:21] [STARTUP] Running Task:2
+[04-24-2026 19:18:21] [STARTUP] Checking for updates...
+[04-24-2026 19:18:25] [STARTUP] Everything seems to have loaded :D
+*************************
+~~~~~~~~~~~~~~~~~~~~~~~~~
+[04-24-2026 21:02:59] [STARTUP] Starting hȳd, V-0.0.1
+[04-24-2026 21:03:00] [STARTUP] Running Task:0
+[04-24-2026 21:03:00] [Loading Settings] Loading settings...
+[04-24-2026 21:03:02] [STARTUP] Running Task:1
+[04-24-2026 21:03:02] [STARTUP] Applying Theme...
+[04-24-2026 21:03:04] [STARTUP] Running Task:2
+[04-24-2026 21:03:04] [STARTUP] Checking for updates...
+[04-24-2026 21:03:30] [STARTUP] Everything seems to have loaded :D
+*************************

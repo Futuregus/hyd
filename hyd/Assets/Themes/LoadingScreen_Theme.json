@@ -1,0 +1,20 @@
+{
+    "Colors": {
+        "BackgroundColor": "#0E1F31",
+        "TextColor": "#FFFFFF",
+        "AccentColor": "#FFFFFF",
+        "LoadingBarColor": "#3b7912"
+    },
+    "Fonts": {
+        "Family": "Courier New",
+        "Size": 45,
+        "MessageSize": 20,
+        "QuoteSize": 20
+    },
+
+    "Others": {
+        "LoadingBarRadius": 1000,
+        "LoadingBarHeight": 10,
+        "LoadingBarWidth": 840
+    }
+}

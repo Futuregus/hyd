@@ -1,0 +1,11 @@
+{
+    "Colors": {
+        "BackgroundColor": "#19535C",
+        "TextColor": "#000000",
+        "AccentColor": "#FFFFFF",
+        "ButtonColor": "#1E90FF"
+    },
+    "Fonts": {
+        "Family": "Courier New"
+    }
+}

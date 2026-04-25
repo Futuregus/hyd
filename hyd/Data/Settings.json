@@ -1,0 +1,9 @@
+{
+    "theme": "hyd",
+    "default_save_location": "e:\\hyd\\Data\\Misc\\Notes",
+    "update_check": true,
+    "word_wrap": true,
+    "font_size": 100,
+    "quick_hyd_save_directory": "e:\\hyd\\Data\\Misc\\Quick_hyd",
+    "password_manager_save_location": "e:\\hyd\\Data\\Misc\\Password_Manager"
+}
